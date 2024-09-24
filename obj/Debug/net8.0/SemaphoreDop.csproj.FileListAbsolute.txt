@@ -1,0 +1,14 @@
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\bin\Debug\net8.0\SemaphoreDop.exe
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\bin\Debug\net8.0\SemaphoreDop.deps.json
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\bin\Debug\net8.0\SemaphoreDop.runtimeconfig.json
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\bin\Debug\net8.0\SemaphoreDop.dll
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\bin\Debug\net8.0\SemaphoreDop.pdb
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.AssemblyInfo.cs
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.dll
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\refint\SemaphoreDop.dll
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.pdb
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\SemaphoreDop.genruntimeconfig.cache
+C:\Users\Artem\source\repos\Forward_word\SemaphoreDop\obj\Debug\net8.0\ref\SemaphoreDop.dll
